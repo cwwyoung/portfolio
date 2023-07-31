@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    text-align: center;
+    background-image: url("./../assets/tumblr_af6da3feaa34ecc7bb2b36d877e4a235_8122a571_250.png");
+    background-repeat: repeat;
+    color: white;
+}
+
+h1 {
+    font-family: 'Tektur', cursive;
+}
+
+td {
+    border: 1px solid red
+
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 1px solid #787272;
+    border-left: 1px solid #5c5b5b;
+    border-right: 1px solid #545252;
+    border-bottom: 1px solid #070707;
+}
+
+.icq {
+    height: 150px;
+    width: 148px;
+}
